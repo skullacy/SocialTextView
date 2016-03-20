@@ -22,7 +22,7 @@ public class SocialTextView {
     // MARK: Initilizers
     
     public init() {
-        someProperty = "a string"
+        someProperty = "A string"
     }
 }
 
